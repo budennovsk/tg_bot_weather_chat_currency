@@ -1,7 +1,9 @@
 # tg_bot_weather_chat_currency
+
 ![image](https://user-images.githubusercontent.com/97764479/236226516-e3f1e897-2212-4836-b236-fe7b52e98d8b.png)
-	
-	
+
+<img src=https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png](https://user-images.githubusercontent.com/97764479/236226516-e3f1e897-2212-4836-b236-fe7b52e98d8b.png" width=50% height=50%>
+
 Погода 
 ![image](https://user-images.githubusercontent.com/97764479/236227323-2eb88364-0e6e-4162-8197-1469e9b9f63f.png)
 Животные рандом
