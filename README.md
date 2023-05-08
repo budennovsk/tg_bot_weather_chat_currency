@@ -3,7 +3,7 @@
 <h1>Тг бот написан на aiogram, который получает запросы по конвертации валют, погоды, генерацией случайных картинок, и опросом</h1>
 <br>
 <h3>Старт</h3>
-<img src="https://user-images.githubusercontent.com/97764479/236226516-e3f1e897-2212-4836-b236-fe7b52e98d8b.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/97764479/236226516-e3f1e897-2212-4836-b236-fe7b52e98d8b.png" width=50% height=50%>
 <br>
 <h3>Погода</h3>
 
